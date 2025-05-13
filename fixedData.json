@@ -1,0 +1,72 @@
+{
+  "NORMAL": {
+    "color": 16777215,
+    "duration": null,
+    "image": "https://via.placeholder.com/512"
+  },
+  "WINDY": {
+    "color": 10151423,
+    "duration": 120,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354400261668924/WINDY.png"
+  },
+  "RAINY": {
+    "color": 163005,
+    "duration": 120,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354399494111342/RAINY.png"
+  },
+  "SNOWY": {
+    "color": 14479353,
+    "duration": 120,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354399733055519/SNOWY.png"
+  },
+  "SAND STORM": {
+    "color": 9400407,
+    "duration": 650,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371361427180486676/SANDSTORM.png"
+  },
+  "HELL": {
+    "color": 16729881,
+    "duration": 660,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354398994858126/HELL.png"
+  },
+  "STARFALL": {
+    "color": 72375,
+    "duration": 600,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354400001364099/STARFALL.png"
+  },
+  "CORRUPTION": {
+    "color": 7156392,
+    "duration": 660,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354398244077669/CORRUPTION.png"
+  },
+  "NULL": {
+    "color": 8618883,
+    "duration": 99,
+    "image": "https://via.placeholder.com/512"
+  },
+  "GLITCHED": {
+    "color": 12582656,
+    "duration": 164,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354398747525161/GLITCHED.png"
+  },
+  "DREAMSPACE": {
+    "color": 15375834,
+    "duration": 128,
+    "image": "https://cdn.discordapp.com/attachments/1362219756148490433/1371354398495608932/DREAMSPACE.png"
+  },
+  "glitch_keywords": ["GLITCHED"],
+  "dream_keywords": ["DREAMSPACE"],
+  "blacklistchannels": [
+    1271189513619902515,
+    1337886908251902114,
+    1271189425459826702,
+    1290022552105648168,
+    1311743706923143258,
+    1341135964109803541,
+    1358473933804015860,
+    1348261847459037255,
+    1271190742911684638,
+    1311362490575097997
+  ],
+  "blacklistwords": []
+}
